@@ -1,4 +1,0 @@
-rails-course
-============
-
-blog
